@@ -1,7 +1,7 @@
 # Getting started with Angular
-### _(was angular-w77nbb-npnvfx)_
+### _( was angular-w77nbb-npnvfx )_
 
-My prior experience with Angular was version 1.4, which is now referred to as AngularJS.
+My prior experience with Angular was version 1.4 (AngularJS), which is now referred to as AngularJS.
 This is my first foray into Angular since the massive migration to Angular 2, which was essentially a complete rewrite.  I figured it was time to refresh my knowledge.
 
 This tutorial introduces the essentials of Angular by creating an e-commerce site with a catalog, shopping cart, and check-out form.  Components are used to build Angular applications. Components define areas of responsibility in the UI that let you reuse sets of UI functionality.
