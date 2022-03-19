@@ -12,4 +12,8 @@ can be found in the LICENSE file at https://angular.io/license
     Description: {{ product.description }}
   </p>
   <button type = "button" (click) = "share()"> Share </button>
+  <app-product-alerts 
+    [product]="product"
+    (notify)="onNotify()">
+ </app-product-alerts>
 </div> 
